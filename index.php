@@ -6,7 +6,7 @@ require ('classes/queries/common.php');?>
 <div class="container">
 
 	<div class="alert alert-primary" role="alert" style="margin-top: 30px;">
-		<h1>This is a web page</h1>
+		<h1>This is a web page - obviously</h1>
 	</div>
 
 	<table class="table table-striped">
