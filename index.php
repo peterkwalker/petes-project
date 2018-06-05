@@ -28,6 +28,8 @@ require ('classes/queries/common.php');?>
 
 	<p>This is the new feature that has been added</p>
 
+	<p>This is the second feature that has been added</p>
+
 </div>
 
 
