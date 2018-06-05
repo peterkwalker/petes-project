@@ -26,6 +26,10 @@ require ('classes/queries/common.php');?>
 		</tbody>
 	</table>
 
+	<p>This is the new feature that has been added</p>
+
+	<p>This is the second feature that has been added</p>
+
 </div>
 
 
